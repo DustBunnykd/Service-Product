@@ -19,3 +19,7 @@ This project is a web-based CRUD application built using Python (Flask framework
 # N/b: import all the necessary libraries for this project
 # +++++++++++++++++
 # Get this assignment done first latter we shall add  edit and  delete services logic ☺☺
+
+
+# Project Output
+<img width="1827" height="652" alt="Image" src="https://github.com/user-attachments/assets/b2d967a1-d9f5-4487-8595-673df0635e4d" />
