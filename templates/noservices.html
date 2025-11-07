@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Flask App</title>
+    <link rel="stylesheet" href="../static/style.css"> 
+</head>
+
+<body>
+    <div class="container">
+        <h2>Service recording app</h2>
+       <p>No Service records for now</p>
+       
+        <form action="/submit" method="post">
+            <p class="worddark">New to this page? <a class="worddark" href="{{ url_for('index')}}">Post Services here</a></p>
+        </form>
+    </div>
+</body>
+
+</html>
